@@ -7,7 +7,8 @@ __pycache__/
 venv/
 .env
 .env.local
-food_env
+instagram
+
 
 # VS Code directory
 .vscode/
