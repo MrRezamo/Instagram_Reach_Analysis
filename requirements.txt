@@ -98,3 +98,4 @@ tornado==6.4
 traitlets==5.14.1
 tzdata==2023.4
 wcwidth==0.2.13
+wordcloud==1.9.3
